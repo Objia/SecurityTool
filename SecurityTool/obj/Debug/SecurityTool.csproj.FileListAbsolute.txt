@@ -20,3 +20,6 @@ C:\Users\Batman\Desktop\WebShell\SecurityTool\SecurityTool\obj\Debug\SecurityToo
 C:\Users\Batman\Desktop\WebShell\SecurityTool\SecurityTool\obj\Debug\SecurityTool.UserControl_Proxy.zh-CN.resources
 C:\Users\Batman\Desktop\WebShell\SecurityTool\SecurityTool\obj\Debug\SecurityTool.UserControl_language.resources
 C:\Users\Batman\Desktop\WebShell\SecurityTool\SecurityTool\obj\Debug\SecurityTool.UserControl_language.zh-CN.resources
+C:\Users\Batman\Desktop\SecurityTool\SecurityTool\bin\Debug\SecurityTool.exe.config
+C:\Users\Batman\Desktop\SecurityTool\SecurityTool\obj\Debug\SecurityTool.exe
+C:\Users\Batman\Desktop\SecurityTool\SecurityTool\obj\Debug\SecurityTool.pdb
